@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	goauth "github.com/oolio-group/loyalty-2/packages/go-auth"
+	goauth "github.com/omkar-dev/go-auth"
 )
 
 func main() {

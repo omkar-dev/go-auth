@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	goauth "github.com/oolio-group/loyalty-2/packages/go-auth"
+	goauth "github.com/omkar-dev/go-auth"
 )
 
 // This example demonstrates three ways to configure the JWT secret

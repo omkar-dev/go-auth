@@ -1,4 +1,4 @@
-module github.com/oolio-group/loyalty-2/packages/go-auth
+module github.com/omkar-dev/go-auth
 
 go 1.22
 
